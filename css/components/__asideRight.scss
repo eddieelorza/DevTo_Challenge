@@ -16,3 +16,8 @@
         }
     }
 }
+.rigth__nav-a {
+    &:hover{
+        color: $accent-brand-lighter !important; 
+    }   
+}

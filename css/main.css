@@ -9,6 +9,10 @@
   color: rgb(80, 99, 255) !important;
 }
 
+.rigth__nav-a:hover {
+  color: rgb(80, 99, 255) !important;
+}
+
 * {
   border: 0;
   margin: 0;

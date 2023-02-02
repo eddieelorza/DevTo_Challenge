@@ -41,6 +41,11 @@
   color: rgb(80, 99, 255) !important;
 }
 
+@media only screen and (min-width: 992px) {
+  .input-group, .btn-outline-primary {
+    display: none;
+  }
+}
 .active {
   border: none !important;
   background: none;

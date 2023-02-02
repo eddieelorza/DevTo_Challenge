@@ -1,5 +1,8 @@
 .btn-secondary {
-  background-color: rgb(235, 233, 233);
+  background-color: rgb(209, 209, 209);
+}
+.btn-secondary:hover {
+  background-color: rgb(175, 175, 175);
 }
 
 .rigth__nav-li:hover {

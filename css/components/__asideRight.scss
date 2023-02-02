@@ -1,13 +1,12 @@
 @import "../Modules/_globals";
 
 .btn-secondary {
-    background-color: rgb(235, 233, 233);
+    background-color: rgb(209, 209, 209);
+    &:hover{
+        background-color: rgb(175, 175, 175) ;
+    }
+
 }
-
-// .rigth__nav-a {
-//     color: $accent-brand-lighter !important;    
-// }
-
 .rigth__nav-li {
     &:hover {
         background-color: rgb(255, 254, 254) !important;

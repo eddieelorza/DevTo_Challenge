@@ -41,6 +41,27 @@
   color: rgb(80, 99, 255) !important;
 }
 
+@media only screen and (min-width: 992px) {
+  .input-group, .btn-outline-primary {
+    display: none;
+  }
+}
+nav {
+  background-color: green;
+}
+
+footer {
+  width: 100%;
+  background-color: rgb(221, 222, 225);
+  padding: 2em;
+}
+footer ul {
+  width: 100%;
+}
+footer ul li {
+  margin: 0 1rem;
+}
+
 .active {
   border: none !important;
   background: none;

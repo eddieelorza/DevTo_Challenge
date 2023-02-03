@@ -50,6 +50,18 @@ nav {
   background-color: green;
 }
 
+footer {
+  width: 100%;
+  background-color: rgb(221, 222, 225);
+  padding: 2em;
+}
+footer ul {
+  width: 100%;
+}
+footer ul li {
+  margin: 0 1rem;
+}
+
 .active {
   border: none !important;
   background: none;

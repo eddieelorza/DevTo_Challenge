@@ -1,6 +1,6 @@
-<a href="#" rel="lastcommit"><img src="https://img.shields.io/github/last-commit/eddieelorza/desafio-pazioli?color=04c7bc&style=for-the-badge" style="max-width:100%;"></a>
-<a href="#" rel="lastcommit"><img src="https://img.shields.io/github/commit-activity/m/eddieelorza/desafio-pazioli?color=04c7bc&style=for-the-badge" style="max-width:100%;"></a>
-<a href="#" rel="lastcommit"><img src="https://img.shields.io/github/last-commit/eddieelorza/desafio-pazioli?color=04c7bc&style=for-the-badge" style="max-width:100%;"></a>
+<a href="#" rel="lastcommit"><img src="https://img.shields.io/github/last-commit/eddieelorza/DevTo_Challenge?color=04c7bc&style=for-the-badge" style="max-width:100%;"></a>
+<a href="#" rel="lastcommit"><img src="https://img.shields.io/github/commit-activity/m/eddieelorza/DevTo_Challenge?color=04c7bc&style=for-the-badge" style="max-width:100%;"></a>
+<a href="#" rel="lastcommit"><img src="https://img.shields.io/github/last-commit/eddieelorza/DevTo_Challenge?color=04c7bc&style=for-the-badge" style="max-width:100%;"></a>
 
 <br>
 

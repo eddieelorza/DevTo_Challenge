@@ -71,7 +71,6 @@ footer ul li {
 .card-title {
   font-size: 2.5em;
   font-weight: bold;
-  margin-bottom: 1em;
 }
 .card-title a {
   color: #08090a;
@@ -106,6 +105,52 @@ footer ul li {
   cursor: pointer;
 }
 
+.left-aside {
+  position: fixed;
+  bottom: 0;
+  z-index: 2;
+  background-color: #F5F5F5;
+}
+.left-aside__div-button {
+  background-color: #F5F5F5;
+  border: none;
+}
+.left-aside__div-button img {
+  width: 3rem;
+}
+.left-aside__div-button .msj {
+  transition: all 1s;
+}
+.left-aside__div-button:hover .heart {
+  background-color: hsla(0deg, 50%, 69%, 0.452);
+}
+.left-aside__div-button:hover .comment {
+  background-color: hsla(36deg, 68%, 77%, 0.452);
+}
+.left-aside__div-button:hover .save {
+  background-color: hsla(236deg, 82%, 78%, 0.452);
+}
+.left-aside__div-button:hover .dots {
+  background-color: hsla(0deg, 0%, 79%, 0.452);
+}
+.left-aside__div-button:hover .msj {
+  text-align: center;
+  display: block !important;
+  top: -50%;
+  z-index: 1;
+}
+
+@media screen and (min-width: 768px) {
+  .left-aside {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    justify-content: center;
+    align-items: center;
+  }
+  .left-aside__div-button:hover .msj {
+    top: 80%;
+  }
+}
 * {
   border: 0;
   margin: 0;
